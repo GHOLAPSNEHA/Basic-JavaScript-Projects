@@ -1,4 +1,4 @@
-# Adding Readme file
+# Basic Javascript Projects
 
 <h3>Basic Javascript Projects</h3>
 <p>
